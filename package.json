@@ -1,5 +1,5 @@
 {
-  "homepage": "https://MahmoudAlsarag.github.io/movies",
+  "Homepage":"https://MahmoudAlsarag.github.io/portfolio",
   "name": "app1",
   "version": "0.1.0",
   "private": true,
@@ -21,8 +21,8 @@
     "yup": "^1.1.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d bulid",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
